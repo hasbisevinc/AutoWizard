@@ -3,7 +3,7 @@
 **AutoWizard** is a top-down action game built with **Unity** and **C#**, currently **in active development**.  
 You control a wizard using a virtual joystick, while the character **automatically aims and casts spells** at nearby enemies.
 
-## Alpha Footage
+## Alpha Footage (click image to watch)
 [![Watch on YouTube](https://img.youtube.com/vi/LYeOxHSrxpw/hqdefault.jpg)](https://www.youtube.com/shorts/LYeOxHSrxpw)
 
 ## 🎮 Gameplay Overview
